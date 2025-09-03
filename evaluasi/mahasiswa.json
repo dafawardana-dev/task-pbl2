@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Wardana",
+    "matkul": "web",
+    "nilai": 90
+  },
+  {
+    "nama": "Dafa",
+    "matkul": "web",
+    "nilai": 80
+  },
+  {
+    "nama": "Muhammad",
+    "matkul": "web",
+    "nilai": 70
+  },
+  {
+    "nama": "Alfariz",
+    "matkul": "web",
+    "nilai": 75
+  },
+  {
+    "nama": "Ridho",
+    "matkul": "web",
+    "nilai": 85
+  }
+]
