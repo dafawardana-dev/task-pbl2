@@ -18,3 +18,4 @@ mahasiswaArray.forEach((mahasiswa, i) => {
   }
   console.log("");
 });
+
